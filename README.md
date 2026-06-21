@@ -27,17 +27,8 @@ cd backend
 node server.js
 ```
 
-Backend runs on:
+Runs on [http://localhost:5000](http://localhost:5000)
 
-http://localhost:5000
+## Frontend
 
-## Frontend Setup
-
-```bash
-cd frontend
-npm start
-```
-
-Frontend runs on:
-
-http://localhost:3000
+Runs on [http://localhost:3000](http://localhost:3000)
